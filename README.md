@@ -1,69 +1,25 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
+# Availity_Test
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Question 1: Tell me about your proudest professional achievement.  It can be a personal or school project.  
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+My first major accomploshment was using a TDD testing approach to plan out, and then further on build a fullstack app using react, redux, monggoDB and other various tools. This app was built for the healthcare sector, tracking clients weight and health goals, and delivering a clients information abput their overall physical and financial health goals
 
-### `yarn test`
+The 2nd accomplishment was building out a large Sql database with Node.js for a home health agency in southern california. This app was used to help nurses monitor and keep track of their patients and their relationship with them. Keeping track of doctor orders, medications, payment informatiomn and making sure everything was heavily protected and valid uder HIPAA and other regulations was a constant struggle, but I learned a great deal durinmg the process. I beleive the experiece made me a much better programmer.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tell me a about a book, blog, article or GitHub repo you read or liked recently, and why you like it and why you should recommend I do the same. 
 
-### `yarn build`
+I read a lot of various blog posts and medium artciels aboiut various concepts revolving around javascript, react, HTML/CSS, data structures and algorithms, etc etc so it's hard to reccomment just one. There is however a book I return more often than not. Eloquent Javascript, is one of the best books out there to understand pure vanilla javascripts. Once you have a strong foundation in JS, espeically in it's approach to objects and classes, that frameworks such as react and vue become much easier to understand. 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+I am also currently reading Gayle Laakmann McDowell "How to crack the Coding interview"
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 3. If you were to describe to a 7-year old what Availity does, what would you say?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I would tell a child that Availity works as sort of bridge, helping doctors and nurses connect with different healthcare insurance companies.
 
-### `yarn eject`
+##  You are tasked to write a checker that validates the parentheses of a LISP code.  Write a program (in Java or JavaScript) which takes in a string as an input and returns true if all the parentheses in the string are properly closed and nested.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# AvailityTest2
+Look at balancedParanthesis.js file
